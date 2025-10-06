@@ -6,4 +6,5 @@
 ### Screenshots
 ![App Screenshot](https://github.com/Andrew-Joel-Paillacho/practica01_web/blob/main/Captura%20de%20pantalla%202025-10-05%20194347.png)
 
-![App Screenshot](https://practica-apiweb.netlify.app/).
+![App Screenshot](https://andrew-joel-paillacho.github.io/practica01_web/).
+
